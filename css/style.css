@@ -1,0 +1,23 @@
+/* GENERAL STYLES */
+body {
+    font-family: arial, sans-serif;
+    font-size: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+/* HEADER */
+.header {
+    padding: 50px 0;
+    background-color: cadetblue;
+    border: 2px;
+    border-color: azure;
+}
+.header h1,
+.header h2 {
+    color: greenyellow;
+    text-align: center;
+}
